@@ -1,6 +1,6 @@
-# Causyne Size Guide: source study
+# Clothing Size Recommendations from Sparse Body Measurements and Photographed Charts
 
-This repository accompanies **Clothing Size Recommendations from Sparse Body Measurements and Photographed Charts** by Ikbal Fadilah.
+This repository contains Ikbal Fadilah's [preprint on Zenodo](https://doi.org/10.5281/zenodo.23653430) and its companion source snapshot.
 
 The [paper](paper/clothing-size-recommendations.pdf) explains the existing Android Size Guide's sparse-input, optional body-measurement, photographed-chart, and fit-ranking paths. It reports source-observed behavior and limitations. It does not claim measured fit accuracy.
 
