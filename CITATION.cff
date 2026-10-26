@@ -1,11 +1,11 @@
 cff-version: 1.2.0
 message: "Please cite this paper if you use or discuss its analysis."
 type: article
-title: "From Sparse Body Inputs to Offline Garment Size Guidance: A Source-Level Study of an Android Size Guide"
+title: "Clothing Size Recommendations from Sparse Body Measurements and Photographed Charts"
 authors:
   - family-names: Fadilah
     given-names: Ikbal
     orcid: "https://orcid.org/0009-0008-4853-135X"
 date-released: 2026-10-26
 license: CC-BY-4.0
-repository-code: "https://github.com/ikbal-causyne/causyne-size-guide-ai"
+repository-code: "https://github.com/ikbal-causyne/clothing-size-recommendations"
