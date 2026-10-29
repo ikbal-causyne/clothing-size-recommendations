@@ -1,4 +1,4 @@
-package com.vanexa.data.models
+package com.vanexa.data.models 
 
 import kotlinx.serialization.Serializable
 
